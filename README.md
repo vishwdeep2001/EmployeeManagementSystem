@@ -27,7 +27,7 @@ Clone the Repository:
 
 
 Copy code
-git clone https://github.com/yourusername/employee-management-system.git
+git clone https://github.com/vishwdeep2001/EmployeeManagementSystem.git
 Database Setup:
 
 Create a MySQL database and configure the connection details in src/main/resources/application.properties.
